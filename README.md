@@ -12,5 +12,5 @@ This repository provides a simple script to install **WoeUSB** on Ubuntu or Debi
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/woeusb-installer.git
+[git clone https://github.com/<your-username>/woeusb-installer.git](https://github.com/LokeshVemula/labadmintasks-woeusb)
 cd woeusb-installer
