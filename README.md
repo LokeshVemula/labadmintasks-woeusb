@@ -12,9 +12,9 @@ This repository provides a simple script to install **WoeUSB** on Ubuntu or Debi
 
 Clone the repository:
 ```bash
-git clone https://github.com/lokeshvemula/labadmintasks-woeusb.git
+git clone https://github.com/lokeshvemula/labadmin-woeusb.git
 
-cd labadmintasks-woeusb/
+cd labadmin-woeusb/
 
 chmod +x ./install-woeusb.sh
 
