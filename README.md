@@ -19,3 +19,6 @@ cd labadmintasks-woeusb/
 chmod +x ./install-woeusb.sh
 
 ./install-woeusb.sh
+
+**USB preparation step:
+sudo woeusb --device ./en-us_windows_server_2022_updated_nov_2022_x64_dvd_8d436d40.iso /dev/sdc
